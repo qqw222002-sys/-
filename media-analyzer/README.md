@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)]()
 [![Cut](https://img.shields.io/badge/CapCut-JianyingPro-orange)]()
 
-> **Give Codex the ability to see your photos and videos, then edit them in CapCut/Jianying — entirely through natural language.**
+> **Give deepseek the ability to see your photos and videos, then edit them in CapCut/Jianying — entirely through natural language.**
 
 ---
 
