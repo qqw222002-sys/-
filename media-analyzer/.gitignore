@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+work/frames/
+work/*.mp4
+work/*.png
+work/*.jpg
+.DS_Store
+Thumbs.db
